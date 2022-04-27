@@ -1,4 +1,4 @@
-# huffman
+# huffman jpg compression
 Demonstrating huffman compression over uncompressed and jpg compression image.
 
 ## Installation
